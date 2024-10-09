@@ -1,8 +1,3 @@
-ls
+#!/bin/bash
+echo "Best"
 
-cat > bash/best.txt
-ls
-cat> bash/best.txt
-touch bash_best.sh
-ls
-cd ..
